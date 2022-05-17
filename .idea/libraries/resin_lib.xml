@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="resin-lib">
+    <CLASSES>
+      <root url="file://D:/WEAVER/Resin/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/WEAVER/Resin/lib" recursive="false" />
+  </library>
+</component>
